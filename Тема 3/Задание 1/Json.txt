@@ -1,0 +1,21 @@
+{
+    "students": {
+      "Ivanov": {
+        "Multimedia" : "3",
+        "Web-design" : "3",
+        "Graphics" : "5"
+      },
+      "Petrov": {
+        "Multimedia" : "3",
+        "Web-design" : "4",
+        "Graphics" : "5",
+        "Logics" : "5"
+      },
+      "Sidorov": {
+        "Multimedia" : "3",
+        "Web-design" : "4",
+        "Graphics" : "5",
+        "Logics" : "5"
+      }
+    }
+  }
